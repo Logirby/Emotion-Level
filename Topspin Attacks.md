@@ -6,23 +6,43 @@ Clash Roll: 5 + 1d15
 I [On Hit] if user's HP is at 10% or lower, restore 1 light.
 Costs 0 Light.
 
+---
+
 Skills:
+
 Field Mods
+
 Base Power: 6
+
 Dice Power: 1d12
+
 Clash Roll: 6 + 1d12
+
 I [On Use] Lower Light Cost of All Actions by 1 for 3 turns. (minimum of 0)
+
 Costs 3 Light.
 
+---
+
 Sword of Volition
-[On Use] All Dice on this attack gain Power equal to emotion level. (Y) Restores All Light
+
+[On Use] All Dice on this attack gain Powerequal to emotion level. (Y) Restores All Light
+
 Base Power: 2+Y
+
 Dice Power: 3d12
+
 Clash Roll: (2+Y) + 3d12
+
 I [On Hit] Inflict 2 [Erosion](<https://tiphereth.zasz.su/effects/Decay/>)
+
 II [On Hit] Inflict 2 [Erosion](<https://tiphereth.zasz.su/effects/Decay/>)
+
 III [On Hit] Inflict 2 [Erosion](<https://tiphereth.zasz.su/effects/Decay/>)
+
 Cost = Current Maximum Light
+
+---
 
 Boundary of Death
 Base Power: 0
