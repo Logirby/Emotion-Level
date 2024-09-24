@@ -24,7 +24,8 @@ Negative choice 1: roll a 1d4. if 4 is rolled, restore 1 light passively for the
 
 Negative choice 2: Gain Passive: If left with 1 light at the end of a combat phase, gain access to EGO skill "Learned Apathy"
 
-Negative choice 3: Gain 4 attack power up, defense power up, Haste and Protection each phase. take .25 damage from all sources. Die in 3 attack phases.
+Negative choice 3: Gain 4 attack power up, defense power up, and Protection each phase. take .25 damage from all sources. Die in 3 attack phases.
+
 
 ## About Emotion Coins:
 Each Level requires a differring amount of emotion coins
