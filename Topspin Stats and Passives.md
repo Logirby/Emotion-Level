@@ -13,9 +13,15 @@ Prudence: 2
 Temperance: 1
 Justice: 0
 
-Passives: (Max 3)
+---
 
-Kizuna/Extremely Extreme fatigue: After an ally has taken 10% of their hp in one attack or reduced to 25% of total hp gain 2 defense power up each turn for the rest of the combat. 
+Passives
+
+---
+
+Kizuna/Extremely Extreme fatigue: 
+
+After an ally has taken 10% of their hp in one attack or reduced to 25% of total hp gain 2 defense power up each turn for the rest of the combat. 
 
 Starts combat with 90% less HP/SP. Cannot restore HP/SP higher than 150. (stats take this into account)
 
