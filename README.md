@@ -14,7 +14,7 @@ Positive Choice 1: Increase in Maximum Light (+1)
 
 Positive Choice 2: Increase in Dice Power (+1)
 
-Positive choice 3: Gain Passive: After attacking the enemy with the most HP, recover the HP of the ally with the least HP by 1+1d7. (3 times per phase.)
+Positive choice 3: Gain Passive: After attacking the enemy with the most HP, recover the HP of the ally with the least HP by 1+1d7. (3 times MAXIMUM per phase.)
 
 ---
 
