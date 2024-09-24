@@ -38,7 +38,7 @@ Base Power: 2+Y
 
 Dice Power: 3d12
 
-Clash Roll: (2+Y) + 3d12
+Clash Roll: (2+Y) + 3d6
 
 I [On Hit] Inflict 2 [Erosion](<https://tiphereth.zasz.su/effects/Decay/>)
 
