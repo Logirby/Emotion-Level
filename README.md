@@ -25,3 +25,11 @@ Negative choice 1: roll a 1d4. if 4 is rolled, restore 1 light passively for the
 Negative choice 2: Swap Current HP/SP with a random enemy (roll 1dX for RNG. X=enemy count)
 
 Negative choice 3: Gain 4 attack power up, defense power up, Haste and Protection each phase. take .25 damage from all sources. Die in 3 attack phases.
+
+---
+
+## About Emotion Coins:
+Each Level requires a differring amount of emotion coins
+0/1/2/3/4 require 3/3/5/7/9 respectively.
+
+In addition to Clashing, emotion coins are rewarded when a dice rolls minimuim/maximum and killing an enemy/having an ally die will reward 3 emotion coins.
