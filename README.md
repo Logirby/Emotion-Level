@@ -6,6 +6,8 @@ Once enough coins have been collected the Emotion Level will increase (0-5) and 
 
 Once Emotion Levels Up, it will be determined to be a Negative Emotion Level or a Positive Emotion Level from whatever coin type held majority (ties are solved by a coinflip, heads = positive tails = negative)
 
+---
+
 Positive Emotion Levels allow for a choice between 3 benefits: 
 
 Positive Choice 1: Increase in Maximum Light (+1)
@@ -13,6 +15,8 @@ Positive Choice 1: Increase in Maximum Light (+1)
 Positive Choice 2: Increase in Dice Power (+1)
 
 Positive choice 3: Gain Passive: After attacking the enemy with the most HP, recover the HP of the ally with the least HP by 1+1d7. (3 times per phase.)
+
+---
 
 Negative Emotion Levels also allow a choice:
 
