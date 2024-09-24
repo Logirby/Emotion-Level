@@ -32,7 +32,7 @@ Costs 3 Light.
 
 ## Sword of Volition
 
-[On Use] All Dice on this attack gain Powerequal to emotion level. (Y) Restores All Light
+[On Use] All Dice on this attack gain Power equal to emotion level. (Y) Restores All Light
 
 Base Power: 2+Y
 
