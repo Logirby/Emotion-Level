@@ -45,3 +45,7 @@ defense power up does not stack from the same ally, remains at 2*y+x (y being DI
 ---
 
 [LightTouched/LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md)
+
+---
+
+[Actions](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Topspin%20Attacks.md)
