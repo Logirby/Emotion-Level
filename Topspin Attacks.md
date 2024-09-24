@@ -74,7 +74,7 @@ Clash Roll: 10+1d30
 
 I | if this rolled maximum, restore maximum light*0.5
 
-Cost = Current Maximum Light*1.5. Can use Light that doesn't exist. See Negative Light effects in LightStarved for more information.
+Cost = Current Maximum Light*1.5. Can use Light that doesn't exist. See [LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md) for more information on the implications.
 
 ---
 
