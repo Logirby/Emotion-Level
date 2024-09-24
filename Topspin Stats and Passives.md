@@ -30,7 +30,7 @@ Justice: 0
 
 
 
-Kizuna/Extremely Extreme fatigue: 
+### Kizuna/Extremely Extreme fatigue: 
 
 After an ally has taken 10% of their hp in one attack or reduced to 25% of total hp gain 2 defense power up each turn for the rest of the combat. 
 
@@ -40,12 +40,12 @@ defense power up does not stack from the same ally, remains at 2*y+x (y being DI
 
 ---
 
-[Emotion-Fueled](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Emotion-Fueled.md)
+### [Emotion-Fueled](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Emotion-Fueled.md)
 
 ---
 
-[LightTouched/LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md)
+### [LightTouched/LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md)
 
 ---
 
-### [Actions](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Topspin%20Attacks.md)
+## [Actions](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Topspin%20Attacks.md)
