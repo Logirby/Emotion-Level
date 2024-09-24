@@ -1,4 +1,4 @@
-Name: Topspin Startrance
+# Topspin Startrance
 
 Age: [REDACTED] (seems she's mid 20s?)
 
@@ -24,11 +24,11 @@ Prudence: 2
 Temperance: 1
 Justice: 0
 
----
 
-Passives
 
----
+## Passives
+
+
 
 Kizuna/Extremely Extreme fatigue: 
 
