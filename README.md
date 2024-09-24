@@ -22,7 +22,7 @@ Negative Emotion Levels also allow a choice:
 
 Negative choice 1: roll a 1d4. if 4 is rolled, restore 1 light passively for the next X planning phases (X=maximum light) Else: lose 3 Light.
 
-Negative choice 2: Swap Current HP/SP with a random enemy. Ignores targets with 400 or more HP. Bypasses Health limit imposed by Extremely Extreme Fatigue. (roll 1dX for RNG. X=enemy count) 
+Negative choice 2: Swap Current HP/SP with a random enemy. Ignores targets with >200 CURRENT HP. Bypasses Health limit imposed by Extremely Extreme Fatigue. (roll 1dX for RNG. X=enemy count) 
 
 Negative choice 3: Gain 4 attack power up, defense power up, Haste and Protection each phase. take .25 damage from all sources. Die in 3 attack phases.
 
