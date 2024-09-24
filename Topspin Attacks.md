@@ -1,4 +1,4 @@
-Basic Attack:
+## Basic Attack
 
 To Overcome Crisis 
 
@@ -12,9 +12,9 @@ I [On Hit] if user's HP is at 10% or lower, restore 1 light.
 
 Costs 0 Light.
 
----
 
-Skills:
+
+## Skills
 
 Field Mods
 
@@ -76,9 +76,8 @@ I | if this rolled maximum, restore maximum light*0.5
 
 Cost = Current Maximum Light*1.5. Can use Light that doesn't exist. See [LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md) for more information on the implications.
 
----
 
-Defense:
+## Defense
 
 Evade
 
