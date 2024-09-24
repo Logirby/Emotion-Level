@@ -64,7 +64,7 @@ Costs 5 Light.
 
 
 
-## EGO: Learned Apapthy
+## EGO: Con fuoco
 
 Base Power: 10
 
