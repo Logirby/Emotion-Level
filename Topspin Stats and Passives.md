@@ -2,7 +2,7 @@
 
 Age: [REDACTED] (seems she's mid 20s?)
 
-Pronouns: she
+Pronouns: she/they
 
 EGO Gear: Da Capo
 
