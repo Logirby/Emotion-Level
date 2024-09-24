@@ -1,11 +1,22 @@
 Name: Topspin Startrance
+
 Age: [REDACTED] (seems she's mid 20s?)
+
 Pronouns: she
+
 EGO Gear: Da Capo
+
 EGO Weapon: Da Capo
+
+---
+
 Stats: 
+
 HP: 100/1000
+
 SP: 100/1000
+
+---
 
 Virtues: 
 Fortitude: 2
