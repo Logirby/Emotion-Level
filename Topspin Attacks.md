@@ -1,6 +1,6 @@
-## Basic Attack
+# Basic Attack
 
-To Overcome Crisis 
+## To Overcome Crisis 
 
 Base Power: 5
 
@@ -14,9 +14,9 @@ Costs 0 Light.
 
 
 
-## Skills
+# Skills
 
-Field Mods
+## Field Mods
 
 Base Power: 6
 
@@ -30,7 +30,7 @@ Costs 3 Light.
 
 ---
 
-Sword of Volition
+## Sword of Volition
 
 [On Use] All Dice on this attack gain Powerequal to emotion level. (Y) Restores All Light
 
@@ -50,7 +50,7 @@ Cost = Current Maximum Light
 
 ---
 
-Boundary of Death
+## Boundary of Death
 
 Base Power: 0
 
@@ -64,7 +64,7 @@ Costs 5 Light.
 
 ---
 
-EGO: Learned Apapthy
+## EGO: Learned Apapthy
 
 Base Power: 10
 
@@ -77,9 +77,9 @@ I | if this rolled maximum, restore maximum light*0.5
 Cost = Current Maximum Light*1.5. Can use Light that doesn't exist. See [LightStarved](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/LightTouched-LightStarved.md) for more information on the implications.
 
 
-## Defense
+# Defense
 
-Evade
+## Evade
 
 Base Power: 4
 
