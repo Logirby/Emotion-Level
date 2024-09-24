@@ -18,6 +18,6 @@ Passives: (Max 3)
 Kizuna/Extremely Extreme fatigue: After an ally has taken 10% of their hp in one attack or reduced to 25% of total hp gain 2 defense power up each turn for the rest of the combat. / Starts combat with 90% less HP/SP. Cannot restore HP/SP higher than 150. (stats take this into account)
 defense power up does not stack from the same ally, remains at 2*y+x (y being DIFFERENT allies, x being defense power up from other sources) each turn
 
-Emotion-fueled: I need too many characters for this for discord [here](<https://github.com/Logirby/Emotion-Level/blob/main/README.md>) is the link to the explanation.
+[Emotion-Fueled](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Emotion-Fueled.md)
 
 LightTouched/LightStarved: Attacks gain +1 power, Can move twice in one phase at a Light cost (cost=1+1d6). / All actions require Light. Starts combat with 5 Light. Passes out for 2 phases if 0 light is reached. Do not restore light passively.
