@@ -28,7 +28,7 @@ I [On Use] Lower Light Cost of All Actions by 1 for 3 turns. (minimum of 0)
 
 Costs 3 Light.
 
----
+
 
 ## Sword of Volition
 
@@ -48,7 +48,7 @@ III [On Hit] Inflict 2 [Erosion](<https://tiphereth.zasz.su/effects/Decay/>)
 
 Cost = Current Maximum Light
 
----
+
 
 ## Boundary of Death
 
@@ -62,7 +62,7 @@ I | If natural roll is Max and is 4 or higher, add +45 power to attack and clash
 
 Costs 5 Light.
 
----
+
 
 ## EGO: Learned Apapthy
 
