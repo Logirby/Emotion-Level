@@ -26,8 +26,6 @@ Negative choice 2: Gain Passive: If left with 1 light at the end of a combat pha
 
 Negative choice 3: Gain 4 attack power up, defense power up, Haste and Protection each phase. take .25 damage from all sources. Die in 3 attack phases.
 
----
-
 ## About Emotion Coins:
 Each Level requires a differring amount of emotion coins
 0/1/2/3/4 require 3/3/5/7/9 respectively.
