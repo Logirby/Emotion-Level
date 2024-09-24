@@ -20,4 +20,4 @@ defense power up does not stack from the same ally, remains at 2*y+x (y being DI
 
 [Emotion-Fueled](https://github.com/Logirby/Jino-The-Tower-Sheets/blob/main/Emotion-Fueled.md)
 
-LightTouched/LightStarved: Attacks gain +1 power, Can move twice in one phase at a Light cost (cost=1+1d6). / All actions require Light. Starts combat with 5 Light. Passes out for 2 phases if 0 light is reached. Do not restore light passively.
+[LightTouched/LightStarved]()
