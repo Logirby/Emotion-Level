@@ -36,7 +36,7 @@ After an ally has taken 10% of their hp in one attack or reduced to 25% of total
 
 Starts combat with 90% less HP/SP. Cannot restore HP/SP higher than 200. (stats take this into account)
 
-defense power up does not stack from the same ally, remains at 2*y+x (y being DIFFERENT allies, x being defense power up from other sources) each turn
+defense power up does not stack from the same ally, remains at (2*y)+x (y being DIFFERENT allies, x being defense power up from other sources) each turn
 
 ---
 
