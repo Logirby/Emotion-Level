@@ -1,5 +1,5 @@
 
-Attacks gain +1 power, Can move twice in one phase at a Light cost (cost=1+1d6). 
+Attacks gain +1 power, Can move an extra time in one phase at a Light cost (cost=1+1dL). 
 
 ---
 
