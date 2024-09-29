@@ -24,7 +24,7 @@ Dice Power: 1d12
 
 Clash Roll: 6 + 1d12
 
-I [On Use] Lower Light Cost of All Actions by 1 for 3 turns. (minimum of 0)
+I [On Use] Lower Light Cost of All Actions by 1. (minimum of 0)
 
 Costs 3 Light.
 
