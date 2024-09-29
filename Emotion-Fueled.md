@@ -2,7 +2,7 @@
 
 Every clash results in an emotion coin, positive results for the user cause positive coins and negative results cause negative coins.
 
-Once enough coins have been collected the Emotion Level will increase (0-5) and all Light will be restored.
+Once enough coins have been collected the Emotion Level will increase (0-5), all Light will be restored and maximum light increases by 1.
 
 Once Emotion Levels Up, it will be determined to be a Negative Emotion Level or a Positive Emotion Level from whatever coin type held majority (ties are solved by a coinflip, heads = positive tails = negative)
 
@@ -10,7 +10,7 @@ Once Emotion Levels Up, it will be determined to be a Negative Emotion Level or 
 
 Positive Emotion Levels allow for a choice between 3 benefits: 
 
-Positive Choice 1: Increase in Maximum Light (+1)
+Positive Choice 1: Gain 1 Haste for the rest of combat
 
 Positive Choice 2: Increase in Dice Power (+1)
 
